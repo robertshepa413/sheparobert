@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+}
+
+/* Subtle selection for dark UI */
+::selection {
+  background: rgba(56, 189, 248, 0.28);
+}
+
