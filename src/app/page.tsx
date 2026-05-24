@@ -252,7 +252,7 @@ export default function HomePage() {
 
           <Section id="contact" title="Contact">
             <div className="grid gap-4 md:grid-cols-2">
-              <Card title="Let’s work together">
+              <Card title="Let's work together">
                 <div className="text-sm text-zinc-300">
                   <p>
                     Call or message me on WhatsApp for structural drawings,

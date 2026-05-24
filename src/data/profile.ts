@@ -5,7 +5,7 @@ export const profile = {
   phoneE164: "+255658468692",
   email: "sheparobert@gmail.com",
   summary:
-    "Civil Engineer mwenye shahada kutoka St. Joseph University in Tanzania mwenye ujuzi katika structural design, architectural drawings na drafting ya miradi ya ujenzi. Nina uzoefu wa kutumia software za engineering kama AutoCAD na Prota Structural Design kwa ajili ya kubuni na kuchora ramani za majengo. Nina uwezo wa kufanya kazi kwa bidii, kujifunza haraka na kushirikiana na timu katika miradi ya ujenzi.",
+    "Civil Engineer with a degree from St. Joseph University in Tanzania, skilled in structural design, architectural drawings, and drafting for construction projects. Experienced with engineering software including AutoCAD and Prota Structural Design for designing and producing building plans. Hardworking, quick to learn, and effective at collaborating with teams on construction projects.",
   education: [
     {
       title: "Bachelor of Engineering (B.E) – Civil Engineering",
@@ -39,7 +39,7 @@ export const profile = {
       ]
     }
   ],
-  languages: ["Swahili – Fluent", "English – Good"],
+  languages: ["English – Good", "Swahili – Fluent"],
   references: "Available upon request."
 } as const;
 
