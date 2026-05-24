@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  color-scheme: dark;
+  color-scheme: light;
 }
 
 html {
@@ -10,10 +10,11 @@ html {
 
 body {
   min-height: 100vh;
+  background-color: #ffffff;
+  color: #0a0a0a;
 }
 
-/* Subtle selection for dark UI */
 ::selection {
-  background: rgba(56, 189, 248, 0.28);
+  background: rgba(0, 0, 0, 0.12);
+  color: #000000;
 }
-
